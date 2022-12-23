@@ -1,5 +1,5 @@
 ## Description 
-
+This project contains the code to enable monitoring and visualisation of logs on a search application using Elastic search, Kibana and Logstash. 
 ### Dependecies
 1. Docker
  
