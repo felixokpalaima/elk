@@ -1,5 +1,5 @@
 ## Description 
-This project contains the code to enable monitoring and visualisation of logs on a search application using Elastic search, Kibana and Logstash. 
+This project contains the code to enable monitoring and visualisation of logs on a search application using Elastic search, Kibana and Logstash. The ELK is a three-layered open-source tool used for storing, manipulating, and visualizing data. Adopting ELK stack in an organization can be a powerful solution for managing and analyzing large amounts of data, particularly log data.
 ### Dependecies
 1. Docker
  
